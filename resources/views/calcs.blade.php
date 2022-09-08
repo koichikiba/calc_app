@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>計算アプリ</title>
 </head>
-<body>
-    <p>{{ $result }}</p>
-</body>
+    <body>
+        <p>{{ $result }}</p>
+    </body>
 </html>

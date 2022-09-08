@@ -20,7 +20,7 @@ class CalcsController extends Controller
         case 'division':
             $result = $joseph1 / $joseph2;
             break;
-}
+        }
 
        return view("calcs", ["result" => $result]);
     }
